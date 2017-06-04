@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+IndexController	/home/D/ruby/Sinatra-mvc/app/controllers/IndexController.rb	/^class IndexController < ApplicationController$/;"	class	line:1
+ApplicationController	/home/D/ruby/Sinatra-mvc/app/controllers/ApplicationController.rb	/^class ApplicationController < Sinatra::Base$/;"	class	line:5
+ApplicationHelper	/home/D/ruby/Sinatra-mvc/app/helpers/ApplicationHelper.rb	/^module ApplicationHelper$/;"	module	line:1
+UrlHelper	/home/D/ruby/Sinatra-mvc/app/helpers/UrlHelper.rb	/^module UrlHelper$/;"	module	line:1
+AssetsHelper	/home/D/ruby/Sinatra-mvc/app/helpers/AssetsHelper.rb	/^module AssetsHelper$/;"	module	line:1
